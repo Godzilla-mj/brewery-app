@@ -1,0 +1,15 @@
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.main :hover {
+    font-weight: 900;
+}
